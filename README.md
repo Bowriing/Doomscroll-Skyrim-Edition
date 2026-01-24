@@ -23,6 +23,13 @@
 
 ---
 
+## Sytem Requirements
+- Operating System: macOS using `osascript`,  `QuickTime Player`
+- Python: 3.9 - 3.12. Not compatible with Python 3.13
+- Permissions: Camera access must be enabled for the terminal running the script.
+
+---
+
 ## Installation
 
 ### 1. Clone the repository
